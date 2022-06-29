@@ -1,3 +1,4 @@
+
 # Android Faker [XPOSED]
 
 
@@ -9,7 +10,7 @@ So i was try to learn About Xposed Framwork more Deep then i was think why shoul
 
 #### Compatibility:
 
-This Module will Support Android 5.0 +  
+This Module will Support Android 8.1 +  
 
 #### Features:
 
@@ -29,6 +30,8 @@ This Module will Support Android 5.0 +
 -> Sim Serial Id <br />
 -> Sim Sub Ids <br />
 -> Mobile No  <br />
+-> MediaDrm ID  <br />
+-> Sim Operator  <br />
 
 #### !!..REQUIREMENT..!!
 
@@ -46,3 +49,8 @@ This Module will Support Android 5.0 +
 #### Note :-  This Module never change real ids so don't ask Can i spoof my service providers and do anything wrong or right and they will never trace you. 
 
 #### Disclaimer:- The Author and Contributors of Android Faker take no responsibility for damage to your device or any other consequences that arise as a result of using this application So use your own Risk.
+
+## License
+[GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.txt)
+
+Android Faker is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
