@@ -1,6 +1,8 @@
 
 # Android Faker [XPOSED]
 
+## This project Deprecated (No more update)
+
 
 
 [![Github All Releases](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.android1500.androidfaker/total.svg)]()   [![GitHub stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/com.android1500.androidfaker)](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker/stargazers) 
